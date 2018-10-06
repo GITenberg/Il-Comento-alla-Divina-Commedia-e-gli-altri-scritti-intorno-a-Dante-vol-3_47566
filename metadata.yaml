@@ -31,6 +31,8 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Il Comento alla Divina Commedia, e gli altri scritti intorno a Dante, vol.
   3
 url: http://www.gutenberg.org/ebooks/47566
